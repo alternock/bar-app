@@ -7,7 +7,7 @@ CORS(app)
 
 @app.route("/")
 def hello_world():
-    return "<p>Hello, World!</p>"
+    return "<p>welcome to my Hello, World!</p>"
 
 
 @app.route("/hello")
